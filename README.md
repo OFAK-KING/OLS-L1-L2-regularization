@@ -7,3 +7,6 @@ Made both training and testing datasets have the same data columns (input attrib
 • Using the training dataset, train 100 L2-regularized linear models corresponding to 100 regularization coefficients evenly spaced between 0.1 and 1000. Use the leave-one-out cross-validation. 
 • performed the same operation but now using L1-regularization.
 • Trained also a linear model without regularization. 
+
+Note: Dataset for this project and many can be found in this dropbox folder:
+https://www.dropbox.com/sh/ao0ppfu4ykg05bd/AADtKIrHpNky4-vzPvicJ7UXa?dl=0
